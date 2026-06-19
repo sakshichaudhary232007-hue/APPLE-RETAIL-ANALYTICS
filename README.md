@@ -46,7 +46,8 @@ Files Included :-
 
 - "APPLE RETAIL ANALYTICS.pbix" – Power BI Dashboard File
 - "README.md" – Project Documentation
-
+- Dashboard Screenshot.png
+  
 Skills Demonstrated :-
 
 - Data Cleaning
